@@ -1,5 +1,5 @@
-### Hi there 👋, Hi!   I'm AKASH
-#### and I am a Frontend Developer
+## Hi there 👋, Hi!   I'm AKASH
+### and I am a Frontend Developer
 ![and I am a Frontend Developer](https://media-exp1.licdn.com/dms/image/C5616AQFSsZ7I1XquWw/profile-displaybackgroundimage-shrink_350_1400/0/1620326350579?e=1635379200&v=beta&t=QRLIYnhFC0XqRYmLqjaF9dJzTEs2lEhjMh8yuiOJ2s8)
 
 High Level exprience in Web Design and development knowledge, graphics Design, producing quality work.
